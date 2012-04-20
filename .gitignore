@@ -1,0 +1,7 @@
+*.class
+*.pyc
+*.pyo
+testproj/manage.py
+testproj/settings.py
+testproj/urls.py
+testproj/__init__.py
